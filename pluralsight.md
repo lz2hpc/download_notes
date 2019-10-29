@@ -2,7 +2,7 @@
 
 https://www.pluralsight.com/
 
-#### Download the tool
+#### Download tool
 
 [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html) and [Microsoft Visual C++ 2010 Redistributable Package (x86) ](https://www.microsoft.com/en-US/download/details.aspx?id=5555)
 
